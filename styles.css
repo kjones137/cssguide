@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+    background-color: lavender;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border: 2px solid darkorchid;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Calibri;
+    color: darkorchid;
+}
+
+#Property {
+    max-width: 200px;
+}
+
+#Description {
+    max-width: 800px;
+}
+
+td {
+    border-top: 2px solid darkorchid;
+    border-right: 2px solid darkorchid;
+    text-align: left;
+
+}
+
+td:last-child { 
+    border-right: None;
+
+}
+
+mark {
+    background-color: white;
+}
+th {
+    background-color: hotpink;
+    color: white;
+}
